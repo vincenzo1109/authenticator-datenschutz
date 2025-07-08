@@ -1,0 +1,2 @@
+# authenticator-datenschutz
+Datenschutzerklärung
